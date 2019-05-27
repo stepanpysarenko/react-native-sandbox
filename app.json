@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "React Native Sandbox",
+    "icon": "icon.png",
+    "version": "1.0.0",
+    "slug": "react-native-sandbox",
+    "sdkVersion": "27.0.0",
+    "ios": {
+      "bundleIdentifier": "com.stepanpysarenkoapps.reactnativesandbox"
+    },
+    "android": {
+      "package": "com.stepanpysarenkoapps.reactnativesandbox"
+    },
+    "orientation": "portrait"
+   }
+}
